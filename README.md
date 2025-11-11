@@ -2,4 +2,6 @@
 
 👷🏻‍♂️ I am an Electronics Engineer <br>
 🎓 Studied at [Rizal Technological University](https://www.facebook.com/share/16eJw8Pyju/) at Boni Mandaluyong,NCR <br>
-💻 Diving into IT industry
+💻 Diving into IT industry <br>
+<br>
+[![Top Language](https://github-readme-stats-ten-omega-29.vercel.app/api/top-langs/?username=Kyotoo0&layout=donut&theme=nightowl&show_icons=true)]
